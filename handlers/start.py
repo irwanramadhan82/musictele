@@ -13,7 +13,7 @@ async def start_(client: Client, message: Message):
         f"""<b>Hello {message.from_user.first_name}!
 
 
-jangan lupa join grup @antigabutborthers🥰.
+jangan lupa join grup @antigabutbrothers🥰.
 masukan musik bot ini kedalam grup kamu Terimakasih 🙏.
  </b>""",
       
@@ -27,7 +27,7 @@ masukan musik bot ini kedalam grup kamu Terimakasih 🙏.
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Group", url="https://t.me/antigabutborthers"
+                        "👥 Group", url="https://t.me/antigabutbrothers"
                     ),
                     InlineKeyboardButton(
                         "💾 join channel", url="https://t.me/sadnesstalk"
