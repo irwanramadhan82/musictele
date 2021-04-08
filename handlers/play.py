@@ -129,7 +129,7 @@ async def deezer(client: Client, message_: Message):
     m = await client.send_photo(
         chat_id=message_.chat.id,
         photo="final.png",
-        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/TeLeTiPsOfficialOnTopicChat)."
+        caption=f"Playing [{title}]({url}) Via [Deezer](https://t.me/RI024)."
     ) 
     os.remove("final.png")
 # -----------------------------------------------------Jiosaavn-----------------------------------------------------------------
