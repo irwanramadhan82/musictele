@@ -22,20 +22,20 @@ masukan musik bot ini kedalam grup kamu Terimakasih 🙏.
             [
                 [
                     InlineKeyboardButton(
-                        "Chatt kuy", url="https://t.me/RI024",
+                        "🔧⚒️Created⚒️🔧", url="https://t.me/RI024",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Group", url="https://t.me/antigabutbrothers"
+                        "👥 Group 👥", url="https://t.me/antigabutbrothers"
                     ),
                     InlineKeyboardButton(
-                        "💾 join channel", url="https://t.me/sadnesstalk"
+                        "💬 Join channel 💬", url="https://t.me/sadnesstalk"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Join Channel", url="https://t.me/sadnesstalk"
+                        "💬 Join Channel 💬", url="https://t.me/sadnesstalk"
                     )
                 ]
             ]
